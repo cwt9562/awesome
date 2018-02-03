@@ -1,4 +1,4 @@
-#My awesome web links.
+My awesome web links.
 
 1. idea
 1. java
